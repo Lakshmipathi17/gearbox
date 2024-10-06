@@ -38,7 +38,6 @@ const CategoryFilters = ({ id }: { id: string | undefined }) => {
                 visible={true}
                 strokeWidth="5"
                 animationDuration="0.75"
-                ariaLabel="rotating-lines-loading"
                 width="50"
               />
             </div>
