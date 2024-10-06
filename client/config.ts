@@ -8,7 +8,7 @@ const checkConfig=(server:string):Config |{}=>{
     switch(server){
         case "production":
           config ={
-            baseUrl:"",
+            baseUrl:"https://gearbox-pi.vercel.app",
           };
         break;
         case "local":
