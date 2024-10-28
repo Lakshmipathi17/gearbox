@@ -63,7 +63,7 @@ const UserInfo = ({ currentUser }: UserTypes) => {
         <svg
           viewBox="0 0 1024 1024"
           className="absolute left-1/2 top-1/2 -z-10 h-[64rem] w-[64rem] -translate-x-1/2 [mask-image:radial-gradient(closest-side,white,transparent)]"
-          aria-hidden="true"
+        
         >
           <circle
             cx={512}

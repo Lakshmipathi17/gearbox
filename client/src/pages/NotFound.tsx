@@ -69,13 +69,13 @@ const NotFound = () => {
                   <div className="flex h-10 w-10 flex-none items-center justify-center rounded-lg shadow-sm ring-1 ring-gray-900/10">
                     <link.icon
                       className="h-6 w-6 text-skyText"
-                      aria-hidden="true"
+                     
                     />
                   </div>
                   <div className="flex-auto">
                     <h3 className="text-sm font-semibold leading-6 text-gray-900">
                       <a href={link.href}>
-                        <span className="absolute inset-0" aria-hidden="true" />
+                        <span className="absolute inset-0"/>
                         {link.name}
                       </a>
                     </h3>
@@ -86,7 +86,7 @@ const NotFound = () => {
                   <div className="flex-none self-center">
                     <LuChevronRight
                       className="h-5 w-5 text-gray-400"
-                      aria-hidden="true"
+                    
                     />
                   </div>
                 </li>

@@ -58,7 +58,7 @@ const Cart = () => {
 
                     <FaQuestionCircle
                       className="h-5 w-5 text-gray-400 ml-2"
-                      aria-hidden="true"
+
                     />
                   </dt>
                   <dd className="text-sm font-medium text-gray-900">
@@ -71,7 +71,6 @@ const Cart = () => {
 
                     <FaQuestionCircle
                       className="h-5 w-5 text-gray-400 ml-2"
-                      aria-hidden="true"
                     />
                   </dt>
                   <dd className="text-sm font-medium text-gray-900">
